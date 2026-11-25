@@ -1,5 +1,7 @@
 # OpenFirmList MCP Server
 
+[![Glama](https://glama.ai/mcp/connectors/com.openfirmlist/openfirmlist/badges/score.svg)](https://glama.ai/mcp/connectors/com.openfirmlist/openfirmlist)
+
 Official remote Model Context Protocol (MCP) server for [OpenFirmList](https://openfirmlist.com) — a global B2B company search engine indexing 3.1M+ manufacturers, suppliers, workshops, and industrial sites worldwide.
 
 **Remote MCP Endpoint:** `https://openfirmlist.com/mcp`
